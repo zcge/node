@@ -131,3 +131,27 @@
 2017-01-24 14:06:50,636 INFO 2313 [-/127.0.0.1/-/1ms GET /get.html?a=1] status 200 (rt: 1ms)
 2017-01-24 14:07:10,147 INFO 2316 [egg-mysql] select now() as currentTime; 184ms
 2017-01-24 14:15:58,051 INFO 2320 [egg-mysql] select now() as currentTime; 199ms
+2017-01-24 14:52:35,518 INFO 2499 [egg-mysql] select now() as currentTime; 275ms
+2017-01-24 14:52:35,524 INFO 2502 [egg-mysql] select now() as currentTime; 275ms
+2017-01-24 14:52:35,542 INFO 2501 [egg-mysql] select now() as currentTime; 275ms
+2017-01-24 14:52:35,554 INFO 2500 [egg-mysql] select now() as currentTime; 218ms
+2017-01-24 14:53:03,005 INFO 2506 [egg-mysql] select now() as currentTime; 292ms
+2017-01-24 14:53:03,010 INFO 2507 [egg-mysql] select now() as currentTime; 232ms
+2017-01-24 14:53:03,035 INFO 2509 [egg-mysql] select now() as currentTime; 248ms
+2017-01-24 14:53:03,036 INFO 2508 [egg-mysql] select now() as currentTime; 261ms
+2017-01-24 14:53:52,017 INFO 2516 [egg-mysql] select now() as currentTime; 247ms
+2017-01-24 14:53:52,022 INFO 2515 [egg-mysql] select now() as currentTime; 245ms
+2017-01-24 14:53:52,071 INFO 2513 [egg-mysql] select now() as currentTime; 256ms
+2017-01-24 14:53:52,089 INFO 2514 [egg-mysql] select now() as currentTime; 257ms
+2017-01-24 14:54:05,909 INFO 2520 [egg-mysql] select now() as currentTime; 230ms
+2017-01-24 14:54:05,996 INFO 2522 [egg-mysql] select now() as currentTime; 254ms
+2017-01-24 14:54:06,033 INFO 2523 [egg-mysql] select now() as currentTime; 254ms
+2017-01-24 14:54:06,043 INFO 2521 [egg-mysql] select now() as currentTime; 256ms
+2017-01-24 14:54:24,694 INFO 2527 [egg-mysql] select now() as currentTime; 236ms
+2017-01-24 14:54:24,701 INFO 2528 [egg-mysql] select now() as currentTime; 237ms
+2017-01-24 14:54:24,736 INFO 2529 [egg-mysql] select now() as currentTime; 242ms
+2017-01-24 14:54:24,737 INFO 2530 [egg-mysql] select now() as currentTime; 230ms
+2017-01-24 14:54:40,088 INFO 2537 [egg-mysql] select now() as currentTime; 251ms
+2017-01-24 14:54:40,128 INFO 2536 [egg-mysql] select now() as currentTime; 247ms
+2017-01-24 14:54:40,152 INFO 2534 [egg-mysql] select now() as currentTime; 263ms
+2017-01-24 14:54:40,193 INFO 2535 [egg-mysql] select now() as currentTime; 278ms

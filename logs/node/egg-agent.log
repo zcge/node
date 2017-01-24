@@ -185,3 +185,21 @@
 2017-01-24 14:06:25,008 WARN 2262 [agent:development] reload worker because /Users/hankewei/Desktop/Node/node/app/router.js change
 2017-01-24 14:07:09,112 WARN 2262 [agent:development] reload worker because /Users/hankewei/Desktop/Node/node/app/controller/get.js change
 2017-01-24 14:15:57,221 WARN 2262 [agent:development] reload worker because /Users/hankewei/Desktop/Node/node/app/controller/get.js change
+2017-01-24 14:52:33,909 INFO 2498 [egg:watcher:agent] watcher start success
+2017-01-24 14:52:33,790 INFO 2498 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-01-24 14:52:33,854 INFO 2498 [egg:agent] create an AgentWorkerClient for "watcher"
+2017-01-24 14:53:01,603 INFO 2505 [egg:watcher:agent] watcher start success
+2017-01-24 14:53:01,518 INFO 2505 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-01-24 14:53:01,561 INFO 2505 [egg:agent] create an AgentWorkerClient for "watcher"
+2017-01-24 14:53:50,561 INFO 2512 [egg:watcher:agent] watcher start success
+2017-01-24 14:53:50,472 INFO 2512 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-01-24 14:53:50,517 INFO 2512 [egg:agent] create an AgentWorkerClient for "watcher"
+2017-01-24 14:54:04,582 INFO 2519 [egg:watcher:agent] watcher start success
+2017-01-24 14:54:04,492 INFO 2519 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-01-24 14:54:04,540 INFO 2519 [egg:agent] create an AgentWorkerClient for "watcher"
+2017-01-24 14:54:23,331 INFO 2526 [egg:watcher:agent] watcher start success
+2017-01-24 14:54:23,246 INFO 2526 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-01-24 14:54:23,288 INFO 2526 [egg:agent] create an AgentWorkerClient for "watcher"
+2017-01-24 14:54:38,661 INFO 2533 [egg:watcher:agent] watcher start success
+2017-01-24 14:54:38,575 INFO 2533 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-01-24 14:54:38,620 INFO 2533 [egg:agent] create an AgentWorkerClient for "watcher"

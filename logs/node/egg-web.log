@@ -1693,3 +1693,315 @@
 2017-01-24 14:15:57,895 INFO 2320 [egg-security] use xframe middleware
 2017-01-24 14:15:57,895 INFO 2320 [egg-security] compose 6 middlewares into one security middleware
 2017-01-24 14:15:58,053 INFO 2320 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jan 24 2017 14:15:58 GMT+0800 (CST)
+2017-01-24 14:52:35,031 INFO 2499 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-01-24 14:52:35,034 INFO 2499 [egg:worker] create an AppWorkerClient for "watcher"
+2017-01-24 14:52:35,110 INFO 2499 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-01-24 14:52:35,111 INFO 2499 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-01-24 14:52:35,126 INFO 2499 [egg-mysql] connecting root@hankewei.xyz:3306/hkw
+2017-01-24 14:52:35,330 INFO 2499 [egg-security] use csrf middleware
+2017-01-24 14:52:35,332 INFO 2499 [egg-security] use methodnoallow middleware
+2017-01-24 14:52:35,334 INFO 2499 [egg-security] use noopen middleware
+2017-01-24 14:52:35,334 INFO 2499 [egg-security] use nosniff middleware
+2017-01-24 14:52:35,336 INFO 2499 [egg-security] use xssProtection middleware
+2017-01-24 14:52:35,338 INFO 2499 [egg-security] use xframe middleware
+2017-01-24 14:52:35,338 INFO 2499 [egg-security] compose 6 middlewares into one security middleware
+2017-01-24 14:52:35,030 INFO 2502 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-01-24 14:52:35,034 INFO 2502 [egg:worker] create an AppWorkerClient for "watcher"
+2017-01-24 14:52:35,108 INFO 2502 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-01-24 14:52:35,108 INFO 2502 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-01-24 14:52:35,126 INFO 2502 [egg-mysql] connecting root@hankewei.xyz:3306/hkw
+2017-01-24 14:52:35,333 INFO 2502 [egg-security] use csrf middleware
+2017-01-24 14:52:35,335 INFO 2502 [egg-security] use methodnoallow middleware
+2017-01-24 14:52:35,336 INFO 2502 [egg-security] use noopen middleware
+2017-01-24 14:52:35,344 INFO 2502 [egg-security] use nosniff middleware
+2017-01-24 14:52:35,345 INFO 2502 [egg-security] use xssProtection middleware
+2017-01-24 14:52:35,347 INFO 2502 [egg-security] use xframe middleware
+2017-01-24 14:52:35,347 INFO 2502 [egg-security] compose 6 middlewares into one security middleware
+2017-01-24 14:52:35,032 INFO 2501 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-01-24 14:52:35,034 INFO 2501 [egg:worker] create an AppWorkerClient for "watcher"
+2017-01-24 14:52:35,110 INFO 2501 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-01-24 14:52:35,111 INFO 2501 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-01-24 14:52:35,134 INFO 2501 [egg-mysql] connecting root@hankewei.xyz:3306/hkw
+2017-01-24 14:52:35,357 INFO 2501 [egg-security] use csrf middleware
+2017-01-24 14:52:35,359 INFO 2501 [egg-security] use methodnoallow middleware
+2017-01-24 14:52:35,360 INFO 2501 [egg-security] use noopen middleware
+2017-01-24 14:52:35,361 INFO 2501 [egg-security] use nosniff middleware
+2017-01-24 14:52:35,363 INFO 2501 [egg-security] use xssProtection middleware
+2017-01-24 14:52:35,364 INFO 2501 [egg-security] use xframe middleware
+2017-01-24 14:52:35,365 INFO 2501 [egg-security] compose 6 middlewares into one security middleware
+2017-01-24 14:52:35,097 INFO 2500 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-01-24 14:52:35,100 INFO 2500 [egg:worker] create an AppWorkerClient for "watcher"
+2017-01-24 14:52:35,184 INFO 2500 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-01-24 14:52:35,185 INFO 2500 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-01-24 14:52:35,209 INFO 2500 [egg-mysql] connecting root@hankewei.xyz:3306/hkw
+2017-01-24 14:52:35,407 INFO 2500 [egg-security] use csrf middleware
+2017-01-24 14:52:35,409 INFO 2500 [egg-security] use methodnoallow middleware
+2017-01-24 14:52:35,409 INFO 2500 [egg-security] use noopen middleware
+2017-01-24 14:52:35,410 INFO 2500 [egg-security] use nosniff middleware
+2017-01-24 14:52:35,411 INFO 2500 [egg-security] use xssProtection middleware
+2017-01-24 14:52:35,412 INFO 2500 [egg-security] use xframe middleware
+2017-01-24 14:52:35,417 INFO 2500 [egg-security] compose 6 middlewares into one security middleware
+2017-01-24 14:52:35,520 INFO 2499 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jan 24 2017 14:52:35 GMT+0800 (CST)
+2017-01-24 14:52:35,526 INFO 2502 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jan 24 2017 14:52:35 GMT+0800 (CST)
+2017-01-24 14:52:35,544 INFO 2501 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jan 24 2017 14:52:35 GMT+0800 (CST)
+2017-01-24 14:52:35,556 INFO 2500 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jan 24 2017 14:52:35 GMT+0800 (CST)
+2017-01-24 14:53:02,534 INFO 2506 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-01-24 14:53:02,537 INFO 2506 [egg:worker] create an AppWorkerClient for "watcher"
+2017-01-24 14:53:02,600 INFO 2506 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-01-24 14:53:02,600 INFO 2506 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-01-24 14:53:02,618 INFO 2506 [egg-mysql] connecting root@hankewei.xyz:3306/hkw
+2017-01-24 14:53:02,801 INFO 2506 [egg-security] use csrf middleware
+2017-01-24 14:53:02,804 INFO 2506 [egg-security] use methodnoallow middleware
+2017-01-24 14:53:02,805 INFO 2506 [egg-security] use noopen middleware
+2017-01-24 14:53:02,818 INFO 2506 [egg-security] use nosniff middleware
+2017-01-24 14:53:02,820 INFO 2506 [egg-security] use xssProtection middleware
+2017-01-24 14:53:02,821 INFO 2506 [egg-security] use xframe middleware
+2017-01-24 14:53:02,822 INFO 2506 [egg-security] compose 6 middlewares into one security middleware
+2017-01-24 14:53:02,597 INFO 2507 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-01-24 14:53:02,578 INFO 2508 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-01-24 14:53:02,600 INFO 2507 [egg:worker] create an AppWorkerClient for "watcher"
+2017-01-24 14:53:02,663 INFO 2507 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-01-24 14:53:02,664 INFO 2507 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-01-24 14:53:02,676 INFO 2507 [egg-mysql] connecting root@hankewei.xyz:3306/hkw
+2017-01-24 14:53:02,847 INFO 2507 [egg-security] use csrf middleware
+2017-01-24 14:53:02,858 INFO 2507 [egg-security] use methodnoallow middleware
+2017-01-24 14:53:02,861 INFO 2507 [egg-security] use noopen middleware
+2017-01-24 14:53:02,861 INFO 2507 [egg-security] use nosniff middleware
+2017-01-24 14:53:02,863 INFO 2507 [egg-security] use xssProtection middleware
+2017-01-24 14:53:02,866 INFO 2507 [egg-security] use xframe middleware
+2017-01-24 14:53:02,866 INFO 2507 [egg-security] compose 6 middlewares into one security middleware
+2017-01-24 14:53:02,607 INFO 2509 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-01-24 14:53:02,582 INFO 2508 [egg:worker] create an AppWorkerClient for "watcher"
+2017-01-24 14:53:02,658 INFO 2508 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-01-24 14:53:02,658 INFO 2508 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-01-24 14:53:02,674 INFO 2508 [egg-mysql] connecting root@hankewei.xyz:3306/hkw
+2017-01-24 14:53:02,861 INFO 2508 [egg-security] use csrf middleware
+2017-01-24 14:53:02,863 INFO 2508 [egg-security] use methodnoallow middleware
+2017-01-24 14:53:02,863 INFO 2508 [egg-security] use noopen middleware
+2017-01-24 14:53:02,864 INFO 2508 [egg-security] use nosniff middleware
+2017-01-24 14:53:02,865 INFO 2508 [egg-security] use xssProtection middleware
+2017-01-24 14:53:02,866 INFO 2508 [egg-security] use xframe middleware
+2017-01-24 14:53:02,866 INFO 2508 [egg-security] compose 6 middlewares into one security middleware
+2017-01-24 14:53:02,609 INFO 2509 [egg:worker] create an AppWorkerClient for "watcher"
+2017-01-24 14:53:02,680 INFO 2509 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-01-24 14:53:02,680 INFO 2509 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-01-24 14:53:02,693 INFO 2509 [egg-mysql] connecting root@hankewei.xyz:3306/hkw
+2017-01-24 14:53:02,857 INFO 2509 [egg-security] use csrf middleware
+2017-01-24 14:53:02,861 INFO 2509 [egg-security] use methodnoallow middleware
+2017-01-24 14:53:02,862 INFO 2509 [egg-security] use noopen middleware
+2017-01-24 14:53:02,869 INFO 2509 [egg-security] use nosniff middleware
+2017-01-24 14:53:02,870 INFO 2509 [egg-security] use xssProtection middleware
+2017-01-24 14:53:02,872 INFO 2509 [egg-security] use xframe middleware
+2017-01-24 14:53:02,872 INFO 2509 [egg-security] compose 6 middlewares into one security middleware
+2017-01-24 14:53:03,006 INFO 2506 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jan 24 2017 14:53:02 GMT+0800 (CST)
+2017-01-24 14:53:03,012 INFO 2507 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jan 24 2017 14:53:02 GMT+0800 (CST)
+2017-01-24 14:53:03,037 INFO 2509 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jan 24 2017 14:53:02 GMT+0800 (CST)
+2017-01-24 14:53:03,039 INFO 2508 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jan 24 2017 14:53:02 GMT+0800 (CST)
+2017-01-24 14:53:51,574 INFO 2516 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-01-24 14:53:51,576 INFO 2516 [egg:worker] create an AppWorkerClient for "watcher"
+2017-01-24 14:53:51,647 INFO 2516 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-01-24 14:53:51,648 INFO 2516 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-01-24 14:53:51,661 INFO 2516 [egg-mysql] connecting root@hankewei.xyz:3306/hkw
+2017-01-24 14:53:51,848 INFO 2516 [egg-security] use csrf middleware
+2017-01-24 14:53:51,850 INFO 2516 [egg-security] use methodnoallow middleware
+2017-01-24 14:53:51,851 INFO 2516 [egg-security] use noopen middleware
+2017-01-24 14:53:51,853 INFO 2516 [egg-security] use nosniff middleware
+2017-01-24 14:53:51,855 INFO 2516 [egg-security] use xssProtection middleware
+2017-01-24 14:53:51,867 INFO 2516 [egg-security] use xframe middleware
+2017-01-24 14:53:51,867 INFO 2516 [egg-security] compose 6 middlewares into one security middleware
+2017-01-24 14:53:51,581 INFO 2515 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-01-24 14:53:51,584 INFO 2515 [egg:worker] create an AppWorkerClient for "watcher"
+2017-01-24 14:53:51,653 INFO 2515 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-01-24 14:53:51,653 INFO 2515 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-01-24 14:53:51,669 INFO 2515 [egg-mysql] connecting root@hankewei.xyz:3306/hkw
+2017-01-24 14:53:51,853 INFO 2515 [egg-security] use csrf middleware
+2017-01-24 14:53:51,855 INFO 2515 [egg-security] use methodnoallow middleware
+2017-01-24 14:53:51,857 INFO 2515 [egg-security] use noopen middleware
+2017-01-24 14:53:51,858 INFO 2515 [egg-security] use nosniff middleware
+2017-01-24 14:53:51,861 INFO 2515 [egg-security] use xssProtection middleware
+2017-01-24 14:53:51,862 INFO 2515 [egg-security] use xframe middleware
+2017-01-24 14:53:51,870 INFO 2515 [egg-security] compose 6 middlewares into one security middleware
+2017-01-24 14:53:51,618 INFO 2513 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-01-24 14:53:51,621 INFO 2513 [egg:worker] create an AppWorkerClient for "watcher"
+2017-01-24 14:53:51,683 INFO 2513 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-01-24 14:53:51,684 INFO 2513 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-01-24 14:53:51,702 INFO 2513 [egg-mysql] connecting root@hankewei.xyz:3306/hkw
+2017-01-24 14:53:51,904 INFO 2513 [egg-security] use csrf middleware
+2017-01-24 14:53:51,906 INFO 2513 [egg-security] use methodnoallow middleware
+2017-01-24 14:53:51,909 INFO 2513 [egg-security] use noopen middleware
+2017-01-24 14:53:51,910 INFO 2513 [egg-security] use nosniff middleware
+2017-01-24 14:53:51,917 INFO 2513 [egg-security] use xssProtection middleware
+2017-01-24 14:53:51,918 INFO 2513 [egg-security] use xframe middleware
+2017-01-24 14:53:51,918 INFO 2513 [egg-security] compose 6 middlewares into one security middleware
+2017-01-24 14:53:51,633 INFO 2514 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-01-24 14:53:51,636 INFO 2514 [egg:worker] create an AppWorkerClient for "watcher"
+2017-01-24 14:53:51,700 INFO 2514 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-01-24 14:53:51,701 INFO 2514 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-01-24 14:53:51,723 INFO 2514 [egg-mysql] connecting root@hankewei.xyz:3306/hkw
+2017-01-24 14:53:51,937 INFO 2514 [egg-security] use csrf middleware
+2017-01-24 14:53:51,939 INFO 2514 [egg-security] use methodnoallow middleware
+2017-01-24 14:53:51,940 INFO 2514 [egg-security] use noopen middleware
+2017-01-24 14:53:51,940 INFO 2514 [egg-security] use nosniff middleware
+2017-01-24 14:53:51,942 INFO 2514 [egg-security] use xssProtection middleware
+2017-01-24 14:53:51,944 INFO 2514 [egg-security] use xframe middleware
+2017-01-24 14:53:51,945 INFO 2514 [egg-security] compose 6 middlewares into one security middleware
+2017-01-24 14:53:52,018 INFO 2516 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jan 24 2017 14:53:51 GMT+0800 (CST)
+2017-01-24 14:53:52,022 INFO 2515 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jan 24 2017 14:53:51 GMT+0800 (CST)
+2017-01-24 14:53:52,071 INFO 2513 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jan 24 2017 14:53:51 GMT+0800 (CST)
+2017-01-24 14:53:52,089 INFO 2514 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jan 24 2017 14:53:51 GMT+0800 (CST)
+2017-01-24 14:54:05,503 INFO 2520 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-01-24 14:54:05,505 INFO 2520 [egg:worker] create an AppWorkerClient for "watcher"
+2017-01-24 14:54:05,568 INFO 2520 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-01-24 14:54:05,568 INFO 2520 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-01-24 14:54:05,583 INFO 2520 [egg-mysql] connecting root@hankewei.xyz:3306/hkw
+2017-01-24 14:54:05,754 INFO 2520 [egg-security] use csrf middleware
+2017-01-24 14:54:05,756 INFO 2520 [egg-security] use methodnoallow middleware
+2017-01-24 14:54:05,756 INFO 2520 [egg-security] use noopen middleware
+2017-01-24 14:54:05,757 INFO 2520 [egg-security] use nosniff middleware
+2017-01-24 14:54:05,759 INFO 2520 [egg-security] use xssProtection middleware
+2017-01-24 14:54:05,760 INFO 2520 [egg-security] use xframe middleware
+2017-01-24 14:54:05,760 INFO 2520 [egg-security] compose 6 middlewares into one security middleware
+2017-01-24 14:54:05,564 INFO 2522 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-01-24 14:54:05,566 INFO 2522 [egg:worker] create an AppWorkerClient for "watcher"
+2017-01-24 14:54:05,627 INFO 2522 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-01-24 14:54:05,627 INFO 2522 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-01-24 14:54:05,643 INFO 2522 [egg-mysql] connecting root@hankewei.xyz:3306/hkw
+2017-01-24 14:54:05,833 INFO 2522 [egg-security] use csrf middleware
+2017-01-24 14:54:05,835 INFO 2522 [egg-security] use methodnoallow middleware
+2017-01-24 14:54:05,836 INFO 2522 [egg-security] use noopen middleware
+2017-01-24 14:54:05,837 INFO 2522 [egg-security] use nosniff middleware
+2017-01-24 14:54:05,840 INFO 2522 [egg-security] use xssProtection middleware
+2017-01-24 14:54:05,843 INFO 2522 [egg-security] use xframe middleware
+2017-01-24 14:54:05,855 INFO 2522 [egg-security] compose 6 middlewares into one security middleware
+2017-01-24 14:54:05,590 INFO 2523 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-01-24 14:54:05,592 INFO 2523 [egg:worker] create an AppWorkerClient for "watcher"
+2017-01-24 14:54:05,661 INFO 2523 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-01-24 14:54:05,661 INFO 2523 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-01-24 14:54:05,677 INFO 2523 [egg-mysql] connecting root@hankewei.xyz:3306/hkw
+2017-01-24 14:54:05,871 INFO 2523 [egg-security] use csrf middleware
+2017-01-24 14:54:05,873 INFO 2523 [egg-security] use methodnoallow middleware
+2017-01-24 14:54:05,875 INFO 2523 [egg-security] use noopen middleware
+2017-01-24 14:54:05,881 INFO 2523 [egg-security] use nosniff middleware
+2017-01-24 14:54:05,882 INFO 2523 [egg-security] use xssProtection middleware
+2017-01-24 14:54:05,883 INFO 2523 [egg-security] use xframe middleware
+2017-01-24 14:54:05,883 INFO 2523 [egg-security] compose 6 middlewares into one security middleware
+2017-01-24 14:54:05,909 INFO 2520 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jan 24 2017 14:54:05 GMT+0800 (CST)
+2017-01-24 14:54:05,563 INFO 2521 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-01-24 14:54:05,566 INFO 2521 [egg:worker] create an AppWorkerClient for "watcher"
+2017-01-24 14:54:05,625 INFO 2521 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-01-24 14:54:05,625 INFO 2521 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-01-24 14:54:05,642 INFO 2521 [egg-mysql] connecting root@hankewei.xyz:3306/hkw
+2017-01-24 14:54:05,887 INFO 2521 [egg-security] use csrf middleware
+2017-01-24 14:54:05,889 INFO 2521 [egg-security] use methodnoallow middleware
+2017-01-24 14:54:05,890 INFO 2521 [egg-security] use noopen middleware
+2017-01-24 14:54:05,891 INFO 2521 [egg-security] use nosniff middleware
+2017-01-24 14:54:05,892 INFO 2521 [egg-security] use xssProtection middleware
+2017-01-24 14:54:05,893 INFO 2521 [egg-security] use xframe middleware
+2017-01-24 14:54:05,893 INFO 2521 [egg-security] compose 6 middlewares into one security middleware
+2017-01-24 14:54:05,997 INFO 2522 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jan 24 2017 14:54:05 GMT+0800 (CST)
+2017-01-24 14:54:06,034 INFO 2523 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jan 24 2017 14:54:05 GMT+0800 (CST)
+2017-01-24 14:54:06,043 INFO 2521 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jan 24 2017 14:54:05 GMT+0800 (CST)
+2017-01-24 14:54:24,270 INFO 2527 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-01-24 14:54:24,273 INFO 2527 [egg:worker] create an AppWorkerClient for "watcher"
+2017-01-24 14:54:24,344 INFO 2527 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-01-24 14:54:24,344 INFO 2527 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-01-24 14:54:24,359 INFO 2527 [egg-mysql] connecting root@hankewei.xyz:3306/hkw
+2017-01-24 14:54:24,525 INFO 2527 [egg-security] use csrf middleware
+2017-01-24 14:54:24,527 INFO 2527 [egg-security] use methodnoallow middleware
+2017-01-24 14:54:24,528 INFO 2527 [egg-security] use noopen middleware
+2017-01-24 14:54:24,532 INFO 2527 [egg-security] use nosniff middleware
+2017-01-24 14:54:24,535 INFO 2527 [egg-security] use xssProtection middleware
+2017-01-24 14:54:24,536 INFO 2527 [egg-security] use xframe middleware
+2017-01-24 14:54:24,536 INFO 2527 [egg-security] compose 6 middlewares into one security middleware
+2017-01-24 14:54:24,287 INFO 2528 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-01-24 14:54:24,290 INFO 2528 [egg:worker] create an AppWorkerClient for "watcher"
+2017-01-24 14:54:24,355 INFO 2528 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-01-24 14:54:24,356 INFO 2528 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-01-24 14:54:24,370 INFO 2528 [egg-mysql] connecting root@hankewei.xyz:3306/hkw
+2017-01-24 14:54:24,541 INFO 2528 [egg-security] use csrf middleware
+2017-01-24 14:54:24,542 INFO 2528 [egg-security] use methodnoallow middleware
+2017-01-24 14:54:24,544 INFO 2528 [egg-security] use noopen middleware
+2017-01-24 14:54:24,546 INFO 2528 [egg-security] use nosniff middleware
+2017-01-24 14:54:24,547 INFO 2528 [egg-security] use xssProtection middleware
+2017-01-24 14:54:24,549 INFO 2528 [egg-security] use xframe middleware
+2017-01-24 14:54:24,549 INFO 2528 [egg-security] compose 6 middlewares into one security middleware
+2017-01-24 14:54:24,314 INFO 2529 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-01-24 14:54:24,317 INFO 2529 [egg:worker] create an AppWorkerClient for "watcher"
+2017-01-24 14:54:24,381 INFO 2529 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-01-24 14:54:24,382 INFO 2529 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-01-24 14:54:24,398 INFO 2529 [egg-mysql] connecting root@hankewei.xyz:3306/hkw
+2017-01-24 14:54:24,576 INFO 2529 [egg-security] use csrf middleware
+2017-01-24 14:54:24,579 INFO 2529 [egg-security] use methodnoallow middleware
+2017-01-24 14:54:24,579 INFO 2529 [egg-security] use noopen middleware
+2017-01-24 14:54:24,580 INFO 2529 [egg-security] use nosniff middleware
+2017-01-24 14:54:24,581 INFO 2529 [egg-security] use xssProtection middleware
+2017-01-24 14:54:24,582 INFO 2529 [egg-security] use xframe middleware
+2017-01-24 14:54:24,582 INFO 2529 [egg-security] compose 6 middlewares into one security middleware
+2017-01-24 14:54:24,326 INFO 2530 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-01-24 14:54:24,329 INFO 2530 [egg:worker] create an AppWorkerClient for "watcher"
+2017-01-24 14:54:24,388 INFO 2530 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-01-24 14:54:24,388 INFO 2530 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-01-24 14:54:24,406 INFO 2530 [egg-mysql] connecting root@hankewei.xyz:3306/hkw
+2017-01-24 14:54:24,584 INFO 2530 [egg-security] use csrf middleware
+2017-01-24 14:54:24,585 INFO 2530 [egg-security] use methodnoallow middleware
+2017-01-24 14:54:24,586 INFO 2530 [egg-security] use noopen middleware
+2017-01-24 14:54:24,586 INFO 2530 [egg-security] use nosniff middleware
+2017-01-24 14:54:24,587 INFO 2530 [egg-security] use xssProtection middleware
+2017-01-24 14:54:24,588 INFO 2530 [egg-security] use xframe middleware
+2017-01-24 14:54:24,588 INFO 2530 [egg-security] compose 6 middlewares into one security middleware
+2017-01-24 14:54:24,696 INFO 2527 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jan 24 2017 14:54:24 GMT+0800 (CST)
+2017-01-24 14:54:24,703 INFO 2528 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jan 24 2017 14:54:24 GMT+0800 (CST)
+2017-01-24 14:54:24,738 INFO 2529 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jan 24 2017 14:54:24 GMT+0800 (CST)
+2017-01-24 14:54:24,740 INFO 2530 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jan 24 2017 14:54:24 GMT+0800 (CST)
+2017-01-24 14:54:39,641 INFO 2537 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-01-24 14:54:39,644 INFO 2537 [egg:worker] create an AppWorkerClient for "watcher"
+2017-01-24 14:54:39,715 INFO 2537 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-01-24 14:54:39,716 INFO 2537 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-01-24 14:54:39,739 INFO 2537 [egg-mysql] connecting root@hankewei.xyz:3306/hkw
+2017-01-24 14:54:39,902 INFO 2537 [egg-security] use csrf middleware
+2017-01-24 14:54:39,906 INFO 2537 [egg-security] use methodnoallow middleware
+2017-01-24 14:54:39,907 INFO 2537 [egg-security] use noopen middleware
+2017-01-24 14:54:39,915 INFO 2537 [egg-security] use nosniff middleware
+2017-01-24 14:54:39,916 INFO 2537 [egg-security] use xssProtection middleware
+2017-01-24 14:54:39,918 INFO 2537 [egg-security] use xframe middleware
+2017-01-24 14:54:39,918 INFO 2537 [egg-security] compose 6 middlewares into one security middleware
+2017-01-24 14:54:39,685 INFO 2536 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-01-24 14:54:39,688 INFO 2536 [egg:worker] create an AppWorkerClient for "watcher"
+2017-01-24 14:54:39,755 INFO 2536 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-01-24 14:54:39,755 INFO 2536 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-01-24 14:54:39,771 INFO 2536 [egg-mysql] connecting root@hankewei.xyz:3306/hkw
+2017-01-24 14:54:39,955 INFO 2536 [egg-security] use csrf middleware
+2017-01-24 14:54:39,956 INFO 2536 [egg-security] use methodnoallow middleware
+2017-01-24 14:54:39,957 INFO 2536 [egg-security] use noopen middleware
+2017-01-24 14:54:39,958 INFO 2536 [egg-security] use nosniff middleware
+2017-01-24 14:54:39,959 INFO 2536 [egg-security] use xssProtection middleware
+2017-01-24 14:54:39,960 INFO 2536 [egg-security] use xframe middleware
+2017-01-24 14:54:39,960 INFO 2536 [egg-security] compose 6 middlewares into one security middleware
+2017-01-24 14:54:39,710 INFO 2534 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-01-24 14:54:39,713 INFO 2534 [egg:worker] create an AppWorkerClient for "watcher"
+2017-01-24 14:54:39,771 INFO 2534 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-01-24 14:54:39,771 INFO 2534 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-01-24 14:54:39,787 INFO 2534 [egg-mysql] connecting root@hankewei.xyz:3306/hkw
+2017-01-24 14:54:39,980 INFO 2534 [egg-security] use csrf middleware
+2017-01-24 14:54:39,989 INFO 2534 [egg-security] use methodnoallow middleware
+2017-01-24 14:54:39,990 INFO 2534 [egg-security] use noopen middleware
+2017-01-24 14:54:39,991 INFO 2534 [egg-security] use nosniff middleware
+2017-01-24 14:54:39,992 INFO 2534 [egg-security] use xssProtection middleware
+2017-01-24 14:54:39,994 INFO 2534 [egg-security] use xframe middleware
+2017-01-24 14:54:39,994 INFO 2534 [egg-security] compose 6 middlewares into one security middleware
+2017-01-24 14:54:39,692 INFO 2535 [egg:logger] init all loggers with options: {"dir":"/Users/hankewei/Desktop/Node/yunnode/node/logs/node","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-01-24 14:54:39,695 INFO 2535 [egg:worker] create an AppWorkerClient for "watcher"
+2017-01-24 14:54:39,751 INFO 2535 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-01-24 14:54:39,751 INFO 2535 [egg-schedule]: register schedule egg-schedule:/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-01-24 14:54:39,772 INFO 2535 [egg-mysql] connecting root@hankewei.xyz:3306/hkw
+2017-01-24 14:54:40,046 INFO 2535 [egg-security] use csrf middleware
+2017-01-24 14:54:40,049 INFO 2535 [egg-security] use methodnoallow middleware
+2017-01-24 14:54:40,051 INFO 2535 [egg-security] use noopen middleware
+2017-01-24 14:54:40,052 INFO 2535 [egg-security] use nosniff middleware
+2017-01-24 14:54:40,055 INFO 2535 [egg-security] use xssProtection middleware
+2017-01-24 14:54:40,056 INFO 2535 [egg-security] use xframe middleware
+2017-01-24 14:54:40,056 INFO 2535 [egg-security] compose 6 middlewares into one security middleware
+2017-01-24 14:54:40,089 INFO 2537 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jan 24 2017 14:54:39 GMT+0800 (CST)
+2017-01-24 14:54:40,129 INFO 2536 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jan 24 2017 14:54:39 GMT+0800 (CST)
+2017-01-24 14:54:40,153 INFO 2534 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jan 24 2017 14:54:39 GMT+0800 (CST)
+2017-01-24 14:54:40,193 INFO 2535 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jan 24 2017 14:54:39 GMT+0800 (CST)
