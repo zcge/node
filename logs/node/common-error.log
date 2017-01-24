@@ -1,0 +1,90 @@
+2017-01-24 11:03:37,046 ERROR 1963 [-/127.0.0.1/-/12ms GET /list] nodejs.Error: template not found: news/list.tpl
+    at createTemplate (/Users/hankewei/Desktop/Node/node/node_modules/nunjucks/src/environment.js:207:31)
+    at next (/Users/hankewei/Desktop/Node/node/node_modules/nunjucks/src/lib.js:210:13)
+    at handle (/Users/hankewei/Desktop/Node/node/node_modules/nunjucks/src/environment.js:253:25)
+    at /Users/hankewei/Desktop/Node/node/node_modules/nunjucks/src/environment.js:264:21
+    at next (/Users/hankewei/Desktop/Node/node/node_modules/nunjucks/src/lib.js:207:13)
+    at Object.exports.asyncIter (/Users/hankewei/Desktop/Node/node/node_modules/nunjucks/src/lib.js:214:5)
+    at new_cls.getTemplate (/Users/hankewei/Desktop/Node/node/node_modules/nunjucks/src/environment.js:243:17)
+    at new_cls.render (/Users/hankewei/Desktop/Node/node/node_modules/nunjucks/src/environment.js:305:14)
+    at Promise (/Users/hankewei/Desktop/Node/node/node_modules/egg-view-nunjucks/lib/view.js:12:27)
+    at View.render (/Users/hankewei/Desktop/Node/node/node_modules/egg-view-nunjucks/lib/view.js:11:12)
+
+pid: 1963
+hostname: hankeweideMacBook-Pro.local
+
+2017-01-24 11:04:27,019 ERROR 1968 [-/127.0.0.1/-/14ms GET /list] nodejs.Error: template not found: new/list.tpl
+    at createTemplate (/Users/hankewei/Desktop/Node/node/node_modules/nunjucks/src/environment.js:207:31)
+    at next (/Users/hankewei/Desktop/Node/node/node_modules/nunjucks/src/lib.js:210:13)
+    at handle (/Users/hankewei/Desktop/Node/node/node_modules/nunjucks/src/environment.js:253:25)
+    at /Users/hankewei/Desktop/Node/node/node_modules/nunjucks/src/environment.js:264:21
+    at next (/Users/hankewei/Desktop/Node/node/node_modules/nunjucks/src/lib.js:207:13)
+    at Object.exports.asyncIter (/Users/hankewei/Desktop/Node/node/node_modules/nunjucks/src/lib.js:214:5)
+    at new_cls.getTemplate (/Users/hankewei/Desktop/Node/node/node_modules/nunjucks/src/environment.js:243:17)
+    at new_cls.render (/Users/hankewei/Desktop/Node/node/node_modules/nunjucks/src/environment.js:305:14)
+    at Promise (/Users/hankewei/Desktop/Node/node/node_modules/egg-view-nunjucks/lib/view.js:12:27)
+    at View.render (/Users/hankewei/Desktop/Node/node/node_modules/egg-view-nunjucks/lib/view.js:11:12)
+
+pid: 1968
+hostname: hankeweideMacBook-Pro.local
+
+2017-01-24 11:05:08,168 ERROR 1971 [-/127.0.0.1/-/15ms GET /list] nodejs.Error: template not found: list.tpl
+    at createTemplate (/Users/hankewei/Desktop/Node/node/node_modules/nunjucks/src/environment.js:207:31)
+    at next (/Users/hankewei/Desktop/Node/node/node_modules/nunjucks/src/lib.js:210:13)
+    at handle (/Users/hankewei/Desktop/Node/node/node_modules/nunjucks/src/environment.js:253:25)
+    at /Users/hankewei/Desktop/Node/node/node_modules/nunjucks/src/environment.js:264:21
+    at next (/Users/hankewei/Desktop/Node/node/node_modules/nunjucks/src/lib.js:207:13)
+    at Object.exports.asyncIter (/Users/hankewei/Desktop/Node/node/node_modules/nunjucks/src/lib.js:214:5)
+    at new_cls.getTemplate (/Users/hankewei/Desktop/Node/node/node_modules/nunjucks/src/environment.js:243:17)
+    at new_cls.render (/Users/hankewei/Desktop/Node/node/node_modules/nunjucks/src/environment.js:305:14)
+    at Promise (/Users/hankewei/Desktop/Node/node/node_modules/egg-view-nunjucks/lib/view.js:12:27)
+    at View.render (/Users/hankewei/Desktop/Node/node/node_modules/egg-view-nunjucks/lib/view.js:11:12)
+
+pid: 1971
+hostname: hankeweideMacBook-Pro.local
+
+2017-01-24 12:29:05,274 ERROR 2101 [-/127.0.0.1/-/13ms GET /find] nodejs.TypeError: You may only yield a function, promise, generator, array, or object, but the following object was passed: "undefined"
+    at next (/Users/hankewei/Desktop/Node/node/node_modules/co/index.js:101:25)
+    at onFulfilled (/Users/hankewei/Desktop/Node/node/node_modules/co/index.js:69:7)
+    at /Users/hankewei/Desktop/Node/node/node_modules/co/index.js:54:5
+    at Object.co (/Users/hankewei/Desktop/Node/node/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/hankewei/Desktop/Node/node/node_modules/co/index.js:118:63)
+    at next (/Users/hankewei/Desktop/Node/node/node_modules/co/index.js:99:29)
+    at onFulfilled (/Users/hankewei/Desktop/Node/node/node_modules/co/index.js:69:7)
+    at /Users/hankewei/Desktop/Node/node/node_modules/co/index.js:54:5
+    at Object.co (/Users/hankewei/Desktop/Node/node/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/hankewei/Desktop/Node/node/node_modules/co/index.js:118:63)
+
+pid: 2101
+hostname: hankeweideMacBook-Pro.local
+
+2017-01-24 12:35:44,480 ERROR 2111 [-/127.0.0.1/-/10ms GET /find] nodejs.TypeError: Cannot read property 'get' of undefined
+    at User.find (/Users/hankewei/Desktop/Node/node/app/service/user.js:9:20)
+    at next (native)
+    at onFulfilled (/Users/hankewei/Desktop/Node/node/node_modules/co/index.js:65:19)
+    at /Users/hankewei/Desktop/Node/node/node_modules/co/index.js:54:5
+    at Object.co (/Users/hankewei/Desktop/Node/node/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/hankewei/Desktop/Node/node/node_modules/co/index.js:118:63)
+    at next (/Users/hankewei/Desktop/Node/node/node_modules/co/index.js:99:29)
+    at onFulfilled (/Users/hankewei/Desktop/Node/node/node_modules/co/index.js:69:7)
+    at /Users/hankewei/Desktop/Node/node/node_modules/co/index.js:54:5
+    at Object.co (/Users/hankewei/Desktop/Node/node/node_modules/co/index.js:50:10)
+
+pid: 2111
+hostname: hankeweideMacBook-Pro.local
+
+2017-01-24 12:39:35,435 ERROR 2119 [-/127.0.0.1/-/10ms GET /find] nodejs.TypeError: You may only yield a function, promise, generator, array, or object, but the following object was passed: "undefined"
+    at next (/Users/hankewei/Desktop/Node/node/node_modules/co/index.js:101:25)
+    at onFulfilled (/Users/hankewei/Desktop/Node/node/node_modules/co/index.js:69:7)
+    at /Users/hankewei/Desktop/Node/node/node_modules/co/index.js:54:5
+    at Object.co (/Users/hankewei/Desktop/Node/node/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/hankewei/Desktop/Node/node/node_modules/co/index.js:118:63)
+    at next (/Users/hankewei/Desktop/Node/node/node_modules/co/index.js:99:29)
+    at onFulfilled (/Users/hankewei/Desktop/Node/node/node_modules/co/index.js:69:7)
+    at /Users/hankewei/Desktop/Node/node/node_modules/co/index.js:54:5
+    at Object.co (/Users/hankewei/Desktop/Node/node/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/hankewei/Desktop/Node/node/node_modules/co/index.js:118:63)
+
+pid: 2119
+hostname: hankeweideMacBook-Pro.local
+

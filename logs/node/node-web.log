@@ -1,0 +1,133 @@
+2017-01-24 10:28:49,323 INFO 1736 [-/127.0.0.1/-/13ms GET /] status 200 (rt: 13ms)
+2017-01-24 10:38:05,312 INFO 1854 [-/127.0.0.1/-/11ms GET /] status 200 (rt: 11ms)
+2017-01-24 10:38:10,670 INFO 1854 [-/127.0.0.1/-/11ms GET /312312] status 404 (rt: 11ms)
+2017-01-24 10:38:41,236 INFO 1864 [-/127.0.0.1/-/11ms GET /312312] status 200 (rt: 10ms)
+2017-01-24 10:39:25,474 INFO 1864 [-/127.0.0.1/-/3ms GET /] status 200 (rt: 3ms)
+2017-01-24 10:40:08,399 INFO 1864 [-/127.0.0.1/-/7ms GET /hjhj] status 200 (rt: 7ms)
+2017-01-24 11:03:31,724 INFO 1963 [-/127.0.0.1/-/10ms GET /hjhj] status 200 (rt: 10ms)
+2017-01-24 11:04:06,754 INFO 1967 [-/127.0.0.1/-/32ms GET /list] [view] render list.tpl 22ms
+2017-01-24 11:04:06,757 INFO 1967 [-/127.0.0.1/-/35ms GET /list] status 200 (view: 22ms, rt: 35ms)
+2017-01-24 11:04:36,967 INFO 1969 [-/127.0.0.1/-/29ms GET /list] [view] render list.tpl 20ms
+2017-01-24 11:04:36,969 INFO 1969 [-/127.0.0.1/-/32ms GET /list] status 200 (view: 20ms, rt: 32ms)
+2017-01-24 11:05:27,807 INFO 1972 [-/127.0.0.1/-/28ms GET /list] [view] render list.html 19ms
+2017-01-24 11:05:27,810 INFO 1972 [-/127.0.0.1/-/31ms GET /list] status 200 (view: 19ms, rt: 31ms)
+2017-01-24 11:08:27,025 INFO 1980 [-/127.0.0.1/-/23ms GET /list] [view] render 404.html 14ms
+2017-01-24 11:08:27,028 INFO 1980 [-/127.0.0.1/-/26ms GET /list] status 200 (view: 14ms, rt: 26ms)
+2017-01-24 11:08:27,049 INFO 1980 [-/127.0.0.1/-/4ms GET /public/css/common.css] [view] render 404.html 3ms
+2017-01-24 11:08:32,394 INFO 1980 [-/127.0.0.1/-/1ms GET /home] [view] render home.html 1ms
+2017-01-24 11:08:32,395 INFO 1980 [-/127.0.0.1/-/2ms GET /home] status 200 (view: 1ms, rt: 1ms)
+2017-01-24 11:08:32,405 INFO 1980 [-/127.0.0.1/-/2ms GET /public/css/common.css] [view] render 404.html 1ms
+2017-01-24 11:09:57,361 INFO 1983 [-/127.0.0.1/-/21ms GET /home] [view] render home.html 13ms
+2017-01-24 11:09:57,364 INFO 1983 [-/127.0.0.1/-/25ms GET /home] status 200 (view: 13ms, rt: 25ms)
+2017-01-24 11:09:57,383 INFO 1983 [-/127.0.0.1/-/6ms GET /public/css/common.css] [view] render 404.html 3ms
+2017-01-24 11:10:28,238 INFO 1985 [-/127.0.0.1/-/28ms GET /home] [view] render home.html 16ms
+2017-01-24 11:10:28,242 INFO 1985 [-/127.0.0.1/-/31ms GET /home] status 200 (view: 16ms, rt: 31ms)
+2017-01-24 11:10:28,259 INFO 1985 [-/127.0.0.1/-/6ms GET /public/css/common.css] [view] render 404.html 3ms
+2017-01-24 11:10:38,539 INFO 1985 [-/127.0.0.1/-/3ms GET /public/css/common.css] [view] render 404.html 2ms
+2017-01-24 11:10:39,627 INFO 1985 [-/127.0.0.1/-/2ms GET /home] [view] render home.html 1ms
+2017-01-24 11:10:39,628 INFO 1985 [-/127.0.0.1/-/3ms GET /home] status 200 (view: 1ms, rt: 3ms)
+2017-01-24 11:10:39,652 INFO 1985 [-/127.0.0.1/-/11ms GET /public/css/common.css] [view] render 404.html 10ms
+2017-01-24 12:24:17,338 INFO 2079 [-/127.0.0.1/-/20ms GET /findUid] [view] render 404.html 12ms
+2017-01-24 12:24:17,341 INFO 2079 [-/127.0.0.1/-/24ms GET /findUid] status 200 (view: 12ms, rt: 24ms)
+2017-01-24 12:24:17,367 INFO 2079 [-/127.0.0.1/-/15ms GET /public/css/common.css] [view] render 404.html 2ms
+2017-01-24 12:24:41,870 INFO 2080 [-/127.0.0.1/-/21ms GET /findUid] [view] render 404.html 13ms
+2017-01-24 12:24:41,872 INFO 2080 [-/127.0.0.1/-/24ms GET /findUid] status 200 (view: 13ms, rt: 24ms)
+2017-01-24 12:24:41,890 INFO 2080 [-/127.0.0.1/-/6ms GET /public/css/common.css] [view] render 404.html 4ms
+2017-01-24 12:24:58,879 INFO 2080 [-/127.0.0.1/-/2ms GET /home] [view] render home.html 1ms
+2017-01-24 12:24:58,880 INFO 2080 [-/127.0.0.1/-/3ms GET /home] status 200 (view: 1ms, rt: 3ms)
+2017-01-24 12:24:58,900 INFO 2080 [-/127.0.0.1/-/13ms GET /public/css/common.css] [view] render 404.html 2ms
+2017-01-24 12:25:21,141 INFO 2085 [-/127.0.0.1/-/22ms GET /findUid] [view] render 404.html 13ms
+2017-01-24 12:25:21,144 INFO 2085 [-/127.0.0.1/-/25ms GET /findUid] status 200 (view: 13ms, rt: 25ms)
+2017-01-24 12:25:21,172 INFO 2085 [-/127.0.0.1/-/16ms GET /public/css/common.css] [view] render 404.html 3ms
+2017-01-24 12:25:23,812 INFO 2085 [-/127.0.0.1/-/1ms GET /findUid] [view] render 404.html 1ms
+2017-01-24 12:25:23,812 INFO 2085 [-/127.0.0.1/-/1ms GET /findUid] status 200 (view: 1ms, rt: 1ms)
+2017-01-24 12:25:23,821 INFO 2085 [-/127.0.0.1/-/1ms GET /public/css/common.css] [view] render 404.html 1ms
+2017-01-24 12:26:16,898 INFO 2086 [-/127.0.0.1/-/21ms GET /findUid] [view] render 404.html 14ms
+2017-01-24 12:26:16,901 INFO 2086 [-/127.0.0.1/-/24ms GET /findUid] status 200 (view: 14ms, rt: 24ms)
+2017-01-24 12:26:16,917 INFO 2086 [-/127.0.0.1/-/4ms GET /public/css/common.css] [view] render 404.html 2ms
+2017-01-24 12:27:14,431 INFO 2095 [-/127.0.0.1/-/21ms GET /find] [view] render home.html 12ms
+2017-01-24 12:27:14,434 INFO 2095 [-/127.0.0.1/-/24ms GET /find] status 200 (view: 12ms, rt: 23ms)
+2017-01-24 12:27:14,453 INFO 2095 [-/127.0.0.1/-/4ms GET /public/css/common.css] [view] render 404.html 2ms
+2017-01-24 12:27:57,134 INFO 2100 [-/127.0.0.1/-/11ms GET /find] status 200 (rt: 10ms)
+2017-01-24 12:29:53,561 INFO 2104 [-/127.0.0.1/-/12ms GET /find] status 200 (rt: 12ms)
+2017-01-24 12:43:54,607 INFO 2120 [egg-mysql] select now() as currentTime; 183ms
+2017-01-24 12:44:36,167 INFO 2121 [egg-mysql] select now() as currentTime; 193ms
+2017-01-24 12:44:41,763 INFO 2122 [egg-mysql] select now() as currentTime; 205ms
+2017-01-24 12:44:44,225 INFO 2122 [egg-mysql] SELECT * FROM `users` WHERE `user_id` = 1 LIMIT 0, 1 74ms
+2017-01-24 12:44:44,228 INFO 2122 [-/127.0.0.1/-/84ms GET /find] status 200 (rt: 84ms)
+2017-01-24 12:46:34,116 INFO 2126 [egg-mysql] select now() as currentTime; 185ms
+2017-01-24 12:49:37,715 INFO 2136 [egg-mysql] select now() as currentTime; 190ms
+2017-01-24 12:50:11,064 INFO 2137 [egg-mysql] select now() as currentTime; 176ms
+2017-01-24 12:50:12,835 INFO 2138 [egg-mysql] select now() as currentTime; 259ms
+2017-01-24 12:50:15,945 INFO 2138 [egg-mysql] SELECT * FROM `users` WHERE `user_id` = 1 LIMIT 0, 1 64ms
+2017-01-24 12:50:15,949 INFO 2138 [-/127.0.0.1/-/74ms GET /find] status 200 (rt: 74ms)
+2017-01-24 12:50:26,708 INFO 2139 [egg-mysql] select now() as currentTime; 190ms
+2017-01-24 12:50:26,913 INFO 2139 [egg-mysql] SELECT * FROM `users` WHERE `user_id` = 1 LIMIT 0, 1 77ms
+2017-01-24 12:50:26,917 INFO 2139 [-/127.0.0.1/-/89ms GET /find] status 200 (rt: 89ms)
+2017-01-24 12:50:28,043 INFO 2139 [egg-mysql] SELECT * FROM `users` WHERE `user_id` = 1 LIMIT 0, 1 80ms
+2017-01-24 12:50:28,044 INFO 2139 [-/127.0.0.1/-/82ms GET /find] status 200 (rt: 82ms)
+2017-01-24 12:50:32,231 INFO 2140 [egg-mysql] select now() as currentTime; 205ms
+2017-01-24 12:51:20,015 INFO 2150 [egg-mysql] select now() as currentTime; 183ms
+2017-01-24 12:52:00,020 INFO 2153 [egg-mysql] select now() as currentTime; 213ms
+2017-01-24 12:52:26,167 INFO 2154 [egg-mysql] select now() as currentTime; 209ms
+2017-01-24 12:52:50,200 INFO 2155 [egg-mysql] select now() as currentTime; 183ms
+2017-01-24 13:18:06,361 INFO 2170 [egg-mysql] select now() as currentTime; 167ms
+2017-01-24 13:19:46,261 INFO 2177 [egg-mysql] select now() as currentTime; 193ms
+2017-01-24 13:19:58,100 INFO 2182 [egg-mysql] select now() as currentTime; 177ms
+2017-01-24 13:20:07,171 INFO 2182 [-/127.0.0.1/-/20ms GET /] [view] render home.html 13ms
+2017-01-24 13:20:07,179 INFO 2182 [-/127.0.0.1/-/28ms GET /] status 200 (view: 13ms, rt: 28ms)
+2017-01-24 13:20:07,193 INFO 2182 [-/127.0.0.1/-/3ms GET /public/css/common.css] [view] render 404.html 2ms
+2017-01-24 13:21:45,669 INFO 2182 [-/127.0.0.1/-/2ms GET /public/css/common.css] [view] render 404.html 1ms
+2017-01-24 13:32:44,086 INFO 2235 [egg-mysql] select now() as currentTime; 423ms
+2017-01-24 13:32:52,392 INFO 2236 [egg-mysql] select now() as currentTime; 207ms
+2017-01-24 13:33:50,701 INFO 2237 [egg-mysql] select now() as currentTime; 186ms
+2017-01-24 13:34:01,953 INFO 2238 [egg-mysql] select now() as currentTime; 184ms
+2017-01-24 13:34:20,422 INFO 2239 [egg-mysql] select now() as currentTime; 177ms
+2017-01-24 13:37:02,471 INFO 2258 [egg-mysql] select now() as currentTime; 190ms
+2017-01-24 13:37:32,104 INFO 2263 [egg-mysql] select now() as currentTime; 183ms
+2017-01-24 13:38:04,460 INFO 2264 [egg-mysql] select now() as currentTime; 179ms
+2017-01-24 13:38:05,907 INFO 2265 [egg-mysql] select now() as currentTime; 210ms
+2017-01-24 13:38:36,413 INFO 2267 [egg-mysql] select now() as currentTime; 194ms
+2017-01-24 13:38:44,768 INFO 2267 [egg-mysql] SELECT * FROM `users` WHERE `user_id` = 1 LIMIT 0, 1 63ms
+2017-01-24 13:38:44,771 INFO 2267 [-/127.0.0.1/-/75ms GET /find] status 200 (rt: 74ms)
+2017-01-24 13:38:48,225 INFO 2267 [-/127.0.0.1/-/1ms GET /get] status 200 (rt: 1ms)
+2017-01-24 13:39:18,389 INFO 2267 [-/127.0.0.1/-/4ms GET /get] status 200 (rt: 4ms)
+2017-01-24 13:40:55,395 INFO 2273 [egg-mysql] select now() as currentTime; 214ms
+2017-01-24 13:41:00,501 INFO 2273 [-/127.0.0.1/-/8ms GET /get] status 200 (rt: 8ms)
+2017-01-24 13:41:07,524 INFO 2273 [-/127.0.0.1/-/4ms GET /get] status 200 (rt: 3ms)
+2017-01-24 13:42:26,865 INFO 2284 [egg-mysql] select now() as currentTime; 197ms
+2017-01-24 13:43:09,729 INFO 2285 [egg-mysql] select now() as currentTime; 565ms
+2017-01-24 13:43:14,745 INFO 2286 [egg-mysql] select now() as currentTime; 534ms
+2017-01-24 13:43:17,445 INFO 2287 [egg-mysql] select now() as currentTime; 565ms
+2017-01-24 13:43:20,274 INFO 2288 [egg-mysql] select now() as currentTime; 467ms
+2017-01-24 13:43:48,839 INFO 2288 [-/127.0.0.1/-/26ms GET /] [view] render home.html 11ms
+2017-01-24 13:43:48,841 INFO 2288 [-/127.0.0.1/-/28ms GET /] status 200 (view: 11ms, rt: 28ms)
+2017-01-24 13:43:48,861 INFO 2288 [-/127.0.0.1/-/5ms GET /public/css/common.css] [view] render 404.html 3ms
+2017-01-24 13:43:49,147 INFO 2288 [-/127.0.0.1/-/1ms GET /get] status 200 (rt: 1ms)
+2017-01-24 13:43:51,823 INFO 2288 [-/127.0.0.1/-/2ms GET /public/css/common.css] [view] render 404.html 1ms
+2017-01-24 13:57:44,493 INFO 2305 [egg-mysql] select now() as currentTime; 207ms
+2017-01-24 13:57:59,953 INFO 2306 [egg-mysql] select now() as currentTime; 188ms
+2017-01-24 14:00:41,105 INFO 2309 [egg-mysql] select now() as currentTime; 183ms
+2017-01-24 14:05:35,323 INFO 2310 [egg-mysql] select now() as currentTime; 188ms
+2017-01-24 14:05:49,092 INFO 2311 [egg-mysql] select now() as currentTime; 270ms
+2017-01-24 14:05:53,463 INFO 2311 [-/127.0.0.1/-/23ms GET /home] [view] render home.html 12ms
+2017-01-24 14:05:53,465 INFO 2311 [-/127.0.0.1/-/25ms GET /home] status 200 (view: 12ms, rt: 25ms)
+2017-01-24 14:05:53,485 INFO 2311 [-/127.0.0.1/-/6ms GET /public/css/common.css] [view] render 404.html 4ms
+2017-01-24 14:05:53,847 INFO 2311 [-/127.0.0.1/-/2ms GET /get] status 200 (rt: 2ms)
+2017-01-24 14:06:00,897 INFO 2311 [-/127.0.0.1/-/3ms GET /home.html] [view] render 404.html 2ms
+2017-01-24 14:06:00,898 INFO 2311 [-/127.0.0.1/-/4ms GET /home.html] status 200 (view: 2ms, rt: 4ms)
+2017-01-24 14:06:00,919 INFO 2311 [-/127.0.0.1/-/12ms GET /public/css/common.css] [view] render 404.html 1ms
+2017-01-24 14:06:16,008 INFO 2312 [egg-mysql] select now() as currentTime; 182ms
+2017-01-24 14:06:26,008 INFO 2313 [egg-mysql] select now() as currentTime; 186ms
+2017-01-24 14:06:26,827 INFO 2313 [-/127.0.0.1/-/23ms GET /home.html] [view] render home.html 14ms
+2017-01-24 14:06:26,829 INFO 2313 [-/127.0.0.1/-/26ms GET /home.html] status 200 (view: 14ms, rt: 26ms)
+2017-01-24 14:06:26,850 INFO 2313 [-/127.0.0.1/-/5ms GET /public/css/common.css] [view] render 404.html 3ms
+2017-01-24 14:06:27,552 INFO 2313 [-/127.0.0.1/-/2ms GET /get] [view] render 404.html 1ms
+2017-01-24 14:06:27,553 INFO 2313 [-/127.0.0.1/-/3ms GET /get] status 200 (view: 1ms, rt: 3ms)
+2017-01-24 14:06:39,243 INFO 2313 [-/127.0.0.1/-/2ms GET /home] [view] render 404.html 1ms
+2017-01-24 14:06:39,243 INFO 2313 [-/127.0.0.1/-/2ms GET /home] status 200 (view: 1ms, rt: 2ms)
+2017-01-24 14:06:39,255 INFO 2313 [-/127.0.0.1/-/1ms GET /public/css/common.css] [view] render 404.html 1ms
+2017-01-24 14:06:45,401 INFO 2313 [-/127.0.0.1/-/1ms GET /get.html] status 200 (rt: 1ms)
+2017-01-24 14:06:50,636 INFO 2313 [-/127.0.0.1/-/1ms GET /get.html?a=1] status 200 (rt: 1ms)
+2017-01-24 14:07:10,147 INFO 2316 [egg-mysql] select now() as currentTime; 184ms
+2017-01-24 14:15:58,051 INFO 2320 [egg-mysql] select now() as currentTime; 199ms
