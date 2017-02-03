@@ -1,23 +1,29 @@
 <html>
   <head>
     <title>我的node应用</title>
-    <link rel="stylesheet" href="/public/css/common.css" />
+    <!--<link rel="stylesheet" href="/public/css/common.css" />-->
   </head>
   <body>
       <div>我的node应用首页</div>
       <div>
-        用户: <input type="text">
-        密码: <input type="password">
+        用户: <input type="text" class="userName">
+        密码: <input type="password" class="userPassword">
       </div>
       <div id="btn">登陆</div>
       <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.js"></script>
       <script>
-           $.ajax({
-              url:"http://127.0.0.1:7001/get",
+      $("#btn").click(function(){
+          var userName = $(".userName").val();
+          var userPassword = $(".userPassword").val();
+          $.ajax({
+              url:"http://hankewei.xyz:7001/loginAction",
+              data:{userName:userName,userPassword:userPassword},
               success:function(result){
                   console.log(result);
               }
           });
+      });
+           
       </script>
   </body>
 <html/>

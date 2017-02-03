@@ -5,7 +5,8 @@ module.exports = appInfo => {
       mysql:{
         client: {
           // host
-          host: 'hankewei.xyz',
+          // host: 'hankewei.xyz',
+          host:"112.74.180.116",
           // 端口号
           port: '3306',
           // 用户名
@@ -19,6 +20,13 @@ module.exports = appInfo => {
         app: true,
         // 是否加载到 agent 上，默认关闭
         agent: false,
+      },
+      //配置session 信息
+      session : {
+        maxAge: 24 * 3600 * 1000, // ms
+        key: 'EGG_SESS',
+        httpOnly: true,
+        encrypt: true,
       }
   };
 

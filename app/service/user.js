@@ -12,12 +12,18 @@ module.exports = app => {
         user,
       };
     }
-
-    * createUser(userId,userName) {
+    * login(userName,passWord){
+       const res = yield app.mysql.get("users",{
+         user_name : userName,
+         user_password :  passWord
+       });
+       return res;
+    }
+    * createUser(userName,passWord) {
       // 假如 我们拿到用户 id 从数据库获取用户详细信息
       const res = yield app.mysql.insert("users",{
-        user_id:userId,
-        user_name:userName
+        user_name : userName,
+        user_password :  passWord
       });
       return res;
     }

@@ -155,3 +155,156 @@
 2017-01-24 14:54:40,128 INFO 2536 [egg-mysql] select now() as currentTime; 247ms
 2017-01-24 14:54:40,152 INFO 2534 [egg-mysql] select now() as currentTime; 263ms
 2017-01-24 14:54:40,193 INFO 2535 [egg-mysql] select now() as currentTime; 278ms
+2017-01-26 13:01:48,438 INFO 2385 [egg-mysql] select now() as currentTime; 253ms
+2017-01-26 13:01:59,178 INFO 2385 [-/127.0.0.1/-/22ms GET /] [view] render home.html 13ms
+2017-01-26 13:01:59,194 INFO 2385 [-/127.0.0.1/-/4ms GET /public/css/common.css] [view] render 404.html 3ms
+2017-01-26 13:01:59,514 INFO 2385 [-/127.0.0.1/-/2ms GET /get] [view] render 404.html 2ms
+2017-01-26 13:02:02,596 INFO 2385 [-/127.0.0.1/-/2ms GET /public/css/common.css] [view] render 404.html 1ms
+2017-01-26 13:45:21,097 INFO 3030 [egg-mysql] select now() as currentTime; 257ms
+2017-01-26 13:45:21,099 INFO 3031 [egg-mysql] select now() as currentTime; 258ms
+2017-01-26 13:45:21,099 INFO 3028 [egg-mysql] select now() as currentTime; 264ms
+2017-01-26 13:45:21,104 INFO 3029 [egg-mysql] select now() as currentTime; 290ms
+2017-01-26 13:45:29,952 INFO 3052 [egg-mysql] select now() as currentTime; 228ms
+2017-01-26 13:45:43,619 INFO 3073 [egg-mysql] select now() as currentTime; 206ms
+2017-01-26 13:45:54,383 INFO 3073 [-/127.0.0.1/-/22ms GET /] [view] render home.html 13ms
+2017-01-26 13:45:54,399 INFO 3073 [-/127.0.0.1/-/5ms GET /public/css/common.css] [view] render 404.html 2ms
+2017-01-26 13:45:54,774 INFO 3052 [-/127.0.0.1/-/34ms GET /get] [view] render 404.html 23ms
+2017-01-26 13:45:58,151 INFO 3073 [-/127.0.0.1/-/4ms GET /public/css/common.css] [view] render 404.html 3ms
+2017-01-26 13:46:02,898 INFO 3073 [-/127.0.0.1/-/10ms GET /] [view] render home.html 2ms
+2017-01-26 13:46:02,917 INFO 3073 [-/127.0.0.1/-/2ms GET /public/css/common.css] [view] render 404.html 1ms
+2017-01-26 13:46:04,164 INFO 3052 [-/127.0.0.1/-/4ms GET /get] [view] render 404.html 3ms
+2017-01-26 13:47:12,633 INFO 3127 [egg-mysql] select now() as currentTime; 232ms
+2017-01-26 13:47:18,073 INFO 3073 [egg-mysql] SELECT * FROM `users` WHERE `user_id` = 1 LIMIT 0, 1 73ms
+2017-01-26 13:49:40,696 INFO 3195 [egg-mysql] select now() as currentTime; 226ms
+2017-01-26 13:50:49,261 INFO 3261 [egg-mysql] select now() as currentTime; 211ms
+2017-01-26 13:51:14,538 INFO 3299 [egg-mysql] select now() as currentTime; 200ms
+2017-01-26 13:52:51,375 INFO 3299 [-/127.0.0.1/-/20ms GET /] [view] render home.html 14ms
+2017-01-26 13:52:51,393 INFO 3299 [-/127.0.0.1/-/3ms GET /public/css/common.css] [view] render 404.html 2ms
+2017-01-26 13:52:51,703 INFO 3299 [-/127.0.0.1/-/5ms GET /get] [view] render 404.html 4ms
+2017-01-26 13:53:02,667 INFO 3299 [egg-mysql] SELECT * FROM `users` WHERE `user_id` = 1 LIMIT 0, 1 76ms
+2017-01-26 13:56:48,849 INFO 3464 [egg-mysql] select now() as currentTime; 215ms
+2017-01-26 15:39:13,168 INFO 3685 [egg-mysql] select now() as currentTime; 229ms
+2017-01-26 15:53:13,033 INFO 4065 [egg-mysql] select now() as currentTime; 244ms
+2017-01-26 15:57:53,699 INFO 4192 [egg-mysql] select now() as currentTime; 225ms
+2017-01-26 16:02:05,592 INFO 4235 [egg-mysql] select now() as currentTime; 272ms
+2017-01-26 16:04:24,562 INFO 4262 [egg-mysql] select now() as currentTime; 204ms
+2017-01-26 16:04:43,426 INFO 4267 [egg-mysql] select now() as currentTime; 214ms
+2017-01-26 16:05:18,199 INFO 4267 [-/127.0.0.1/-/19ms GET /] [view] render home.html 12ms
+2017-01-26 16:05:18,220 INFO 4267 [-/127.0.0.1/-/6ms GET /public/css/common.css] [view] render 404.html 5ms
+2017-01-26 16:05:18,386 INFO 4267 [-/127.0.0.1/-/2ms GET /get] [view] render 404.html 2ms
+2017-01-26 16:10:37,869 INFO 4416 [egg-mysql] select now() as currentTime; 206ms
+2017-01-26 16:11:14,759 INFO 4474 [egg-mysql] select now() as currentTime; 208ms
+2017-01-26 16:11:24,594 INFO 4474 [egg-mysql] SELECT * FROM `users` WHERE `user_id` = 1 LIMIT 0, 1 76ms
+2017-01-26 16:11:50,280 INFO 4474 [egg-mysql] SELECT * FROM `users` WHERE `user_id` = 1 LIMIT 0, 1 72ms
+2017-01-26 16:11:53,725 INFO 4474 [-/127.0.0.1/-/17ms GET /] [view] render home.html 16ms
+2017-01-26 16:11:53,736 INFO 4474 [-/127.0.0.1/-/3ms GET /public/css/common.css] [view] render 404.html 2ms
+2017-01-26 16:11:53,884 INFO 4474 [-/127.0.0.1/-/2ms GET /get] [view] render 404.html 1ms
+2017-01-26 16:11:58,504 INFO 4474 [egg-mysql] SELECT * FROM `users` WHERE `user_id` = 1 LIMIT 0, 1 70ms
+2017-01-26 16:12:23,696 INFO 4524 [egg-mysql] select now() as currentTime; 222ms
+2017-01-26 16:12:49,611 INFO 4524 [-/127.0.0.1/-/19ms GET /] [view] render home.html 12ms
+2017-01-26 16:12:49,626 INFO 4524 [-/127.0.0.1/-/3ms GET /public/css/common.css] [view] render 404.html 2ms
+2017-01-26 16:12:49,919 INFO 4524 [-/127.0.0.1/-/3ms GET /get] [view] render 404.html 2ms
+2017-01-26 22:05:32,547 INFO 4801 [egg-mysql] select now() as currentTime; 296ms
+2017-01-26 22:05:32,567 INFO 4804 [egg-mysql] select now() as currentTime; 364ms
+2017-01-26 22:05:32,570 INFO 4803 [egg-mysql] select now() as currentTime; 316ms
+2017-01-26 22:05:32,576 INFO 4802 [egg-mysql] select now() as currentTime; 383ms
+2017-01-26 22:05:45,717 INFO 4802 [-/127.0.0.1/-/23ms GET /] [view] render home.html 17ms
+2017-01-26 22:05:45,737 INFO 4802 [-/127.0.0.1/-/4ms GET /public/css/common.css] [view] render 404.html 3ms
+2017-01-26 22:05:46,012 INFO 4802 [-/127.0.0.1/-/4ms GET /get] [view] render 404.html 2ms
+2017-01-26 22:06:08,732 INFO 4802 [egg-mysql] SELECT * FROM `users` WHERE `user_id` = 1 LIMIT 0, 1 116ms
+2017-01-26 22:06:30,832 INFO 4804 [-/127.0.0.1/-/29ms GET /public/css/common.css] [view] render 404.html 15ms
+2017-01-26 22:06:39,433 INFO 4804 [-/127.0.0.1/-/6ms GET /] [view] render home.html 5ms
+2017-01-26 22:06:39,455 INFO 4804 [-/127.0.0.1/-/8ms GET /public/css/common.css] [view] render 404.html 5ms
+2017-01-26 22:06:40,062 INFO 4804 [-/127.0.0.1/-/3ms GET /get] [view] render 404.html 2ms
+2017-01-26 22:06:46,487 INFO 4804 [egg-mysql] SELECT * FROM `users` WHERE `user_id` = 1 LIMIT 0, 1 89ms
+2017-01-26 22:06:46,902 INFO 4803 [egg-mysql] SELECT * FROM `users` WHERE `user_id` = 1 LIMIT 0, 1 83ms
+2017-01-26 22:06:56,261 INFO 4836 [egg-mysql] select now() as currentTime; 361ms
+2017-01-26 22:06:56,263 INFO 4837 [egg-mysql] select now() as currentTime; 302ms
+2017-01-26 22:06:56,292 INFO 4839 [egg-mysql] select now() as currentTime; 317ms
+2017-01-26 22:06:56,407 INFO 4838 [egg-mysql] select now() as currentTime; 350ms
+2017-01-26 22:07:05,209 INFO 4836 [-/127.0.0.1/-/24ms GET /] [view] render home.html 18ms
+2017-01-26 22:07:05,234 INFO 4836 [-/127.0.0.1/-/8ms GET /public/css/common.css] [view] render 404.html 6ms
+2017-01-26 22:07:05,775 INFO 4836 [-/127.0.0.1/-/2ms GET /get] [view] render 404.html 1ms
+2017-01-26 22:07:10,926 INFO 4836 [egg-mysql] SELECT * FROM `users` WHERE `user_id` = 1 LIMIT 0, 1 82ms
+2017-01-26 22:07:11,021 INFO 4836 [egg-mysql] SELECT * FROM `users` WHERE `user_id` = 1 LIMIT 0, 1 71ms
+2017-01-26 22:13:57,219 INFO 4945 [egg-mysql] select now() as currentTime; 283ms
+2017-01-26 22:13:57,342 INFO 4943 [egg-mysql] select now() as currentTime; 311ms
+2017-01-26 22:13:57,344 INFO 4946 [egg-mysql] select now() as currentTime; 282ms
+2017-01-26 22:13:57,365 INFO 4944 [egg-mysql] select now() as currentTime; 270ms
+2017-01-26 22:14:10,490 INFO 4981 [egg-mysql] select now() as currentTime; 357ms
+2017-01-26 22:14:10,555 INFO 4982 [egg-mysql] select now() as currentTime; 316ms
+2017-01-26 22:14:10,562 INFO 4980 [egg-mysql] select now() as currentTime; 359ms
+2017-01-26 22:14:10,572 INFO 4979 [egg-mysql] select now() as currentTime; 413ms
+2017-01-26 22:14:28,267 INFO 4981 [-/127.0.0.1/-/23ms GET /] [view] render home.html 15ms
+2017-01-26 22:14:28,288 INFO 4981 [-/127.0.0.1/-/6ms GET /public/css/common.css] [view] render 404.html 4ms
+2017-01-26 22:14:29,171 INFO 4981 [-/127.0.0.1/-/3ms GET /get] [view] render 404.html 2ms
+2017-01-26 22:15:12,802 INFO 5019 [egg-mysql] select now() as currentTime; 311ms
+2017-01-26 22:15:12,843 INFO 5022 [egg-mysql] select now() as currentTime; 322ms
+2017-01-26 22:15:12,903 INFO 5021 [egg-mysql] select now() as currentTime; 339ms
+2017-01-26 22:15:13,256 INFO 5020 [egg-mysql] select now() as currentTime; 656ms
+2017-01-26 22:16:12,697 INFO 5071 [egg-mysql] select now() as currentTime; 532ms
+2017-01-26 22:16:12,697 INFO 5072 [egg-mysql] select now() as currentTime; 512ms
+2017-01-26 22:16:12,697 INFO 5070 [egg-mysql] select now() as currentTime; 440ms
+2017-01-26 22:16:12,697 INFO 5073 [egg-mysql] select now() as currentTime; 589ms
+2017-01-26 22:17:43,057 INFO 5117 [egg-mysql] select now() as currentTime; 282ms
+2017-01-26 22:17:43,122 INFO 5116 [egg-mysql] select now() as currentTime; 255ms
+2017-01-26 22:17:43,153 INFO 5115 [egg-mysql] select now() as currentTime; 240ms
+2017-01-26 22:17:43,167 INFO 5114 [egg-mysql] select now() as currentTime; 264ms
+2017-01-26 22:53:56,999 INFO 5663 [egg-mysql] select now() as currentTime; 324ms
+2017-01-26 22:53:57,080 INFO 5666 [egg-mysql] select now() as currentTime; 314ms
+2017-01-26 22:53:57,099 INFO 5664 [egg-mysql] select now() as currentTime; 341ms
+2017-01-26 22:53:57,139 INFO 5665 [egg-mysql] select now() as currentTime; 349ms
+2017-01-26 23:03:49,544 INFO 5945 [egg-mysql] select now() as currentTime; 250ms
+2017-01-26 23:04:54,538 INFO 5981 [egg-mysql] select now() as currentTime; 348ms
+2017-01-26 23:04:54,544 INFO 5979 [egg-mysql] select now() as currentTime; 323ms
+2017-01-26 23:04:54,594 INFO 5983 [egg-mysql] select now() as currentTime; 292ms
+2017-01-26 23:04:55,608 INFO 5980 [egg-mysql] select now() as currentTime; 1352ms
+2017-01-26 23:06:09,756 INFO 5981 [-/127.0.0.1/-/51ms GET /debug?port=5858] [view] render 404.html 36ms
+2017-01-26 23:06:09,788 INFO 5981 [-/127.0.0.1/-/9ms GET /public/css/common.css] [view] render 404.html 6ms
+2017-01-26 23:06:14,745 INFO 5981 [-/127.0.0.1/-/6ms GET /public/css/common.css] [view] render 404.html 4ms
+2017-02-03 10:43:40,250 INFO 1086 [egg-mysql] select now() as currentTime; 234ms
+2017-02-03 10:44:45,477 INFO 1086 [-/127.0.0.1/-/49ms GET /] [view] render home.html 34ms
+2017-02-03 10:44:45,506 INFO 1086 [-/127.0.0.1/-/7ms GET /public/css/common.css] [view] render 404.html 4ms
+2017-02-03 10:44:45,968 INFO 1086 [-/127.0.0.1/-/3ms GET /get] [view] render 404.html 2ms
+2017-02-03 10:45:38,889 INFO 1086 [egg-mysql] SELECT * FROM `users` WHERE `user_id` = 1 LIMIT 0, 1 1363ms
+2017-02-03 10:46:08,167 INFO 1086 [egg-mysql] SELECT * FROM `users` WHERE `user_id` = 1 LIMIT 0, 1 61ms
+2017-02-03 10:46:30,025 INFO 1176 [egg-mysql] select now() as currentTime; 186ms
+2017-02-03 10:46:39,642 INFO 1176 [egg-mysql] SELECT * FROM `users` WHERE `user_id` = 1 LIMIT 0, 1 61ms
+2017-02-03 10:47:12,371 INFO 1176 [egg-mysql] SELECT * FROM `users` WHERE `user_id` = 1 LIMIT 0, 1 58ms
+2017-02-03 10:51:25,752 INFO 1176 [egg-mysql] SELECT * FROM `users` WHERE `user_id` = 1 LIMIT 0, 1 65ms
+2017-02-03 10:58:34,674 INFO 1530 [egg-mysql] select now() as currentTime; 179ms
+2017-02-03 10:58:58,767 INFO 1530 [egg-mysql] SELECT * FROM `users` WHERE `user_id` = 1 LIMIT 0, 1 72ms
+2017-02-03 11:01:02,546 INFO 1585 [egg-mysql] select now() as currentTime; 532ms
+2017-02-03 11:01:19,913 INFO 1585 [egg-mysql] SELECT * FROM `users` WHERE `user_name` = 'hkw' AND `user_password` = '12345' LIMIT 0, 1 74ms
+2017-02-03 11:01:59,830 INFO 1585 [egg-mysql] SELECT * FROM `users` WHERE `user_name` = 'hkw' AND `user_password` = '123456' LIMIT 0, 1 59ms
+2017-02-03 11:12:55,973 INFO 1892 [egg-mysql] select now() as currentTime; 187ms
+2017-02-03 11:13:31,333 INFO 1892 [-/127.0.0.1/-/28ms GET /createUserAction?userName=hkw2&userPassword=123456] [view] render 404.html 20ms
+2017-02-03 11:13:31,368 INFO 1892 [-/127.0.0.1/-/7ms GET /public/css/common.css] [view] render 404.html 4ms
+2017-02-03 11:15:43,913 INFO 1892 [egg-mysql] INSERT INTO `users`(`user_name`, `user_password`) VALUES('hkw2', '123456') 63ms
+2017-02-03 11:24:04,506 INFO 1892 [-/127.0.0.1/-/5ms GET /get] [view] render 404.html 3ms
+2017-02-03 11:31:26,808 INFO 1892 [-/127.0.0.1/-/2ms GET /get] [view] render 404.html 1ms
+2017-02-03 11:36:35,865 INFO 1892 [-/127.0.0.1/-/3ms GET /get] [view] render 404.html 1ms
+2017-02-03 11:36:52,254 INFO 1892 [-/127.0.0.1/-/3ms GET /get] [view] render 404.html 1ms
+2017-02-03 11:36:54,112 INFO 1892 [-/127.0.0.1/-/11ms GET /get] [view] render 404.html 10ms
+2017-02-03 12:20:29,429 INFO 2946 [egg-mysql] select now() as currentTime; 197ms
+2017-02-03 12:21:14,243 INFO 2946 [egg-mysql] SELECT * FROM `users` WHERE `user_name` = 'hkw' AND `user_password` = '1234' LIMIT 0, 1 80ms
+2017-02-03 12:21:51,868 INFO 2946 [egg-mysql] SELECT * FROM `users` WHERE `user_name` = 'hkw' AND `user_password` = '1234' LIMIT 0, 1 62ms
+2017-02-03 12:21:52,795 INFO 2946 [egg-mysql] SELECT * FROM `users` WHERE `user_name` = 'hkw' AND `user_password` = '12345' LIMIT 0, 1 987ms
+2017-02-03 12:22:13,306 INFO 2946 [egg-mysql] SELECT * FROM `users` WHERE `user_name` = 'hkw' AND `user_password` = '12345' LIMIT 0, 1 67ms
+2017-02-03 13:40:48,402 INFO 3613 [egg-mysql] select now() as currentTime; 179ms
+2017-02-03 13:41:31,374 INFO 3613 [-/127.0.0.1/-/29ms GET /] [view] render home.html 22ms
+2017-02-03 13:41:31,945 INFO 3613 [-/127.0.0.1/-/5ms GET /] [view] render home.html 3ms
+2017-02-03 13:41:48,089 INFO 3613 [egg-mysql] SELECT * FROM `users` WHERE `user_name` = 'hkw' AND `user_password` = '12345' LIMIT 0, 1 65ms
+2017-02-03 13:57:13,287 INFO 3807 [egg-mysql] select now() as currentTime; 186ms
+2017-02-03 13:57:31,071 INFO 3856 [egg-mysql] select now() as currentTime; 186ms
+2017-02-03 13:57:37,194 INFO 3856 [egg-mysql] SELECT * FROM `users` WHERE `user_name` = 'hkw' AND `user_password` = '12345' LIMIT 0, 1 78ms
+2017-02-03 13:57:39,056 INFO 3856 [-/127.0.0.1/-/14ms GET /] [view] render home.html 13ms
+2017-02-03 13:57:40,370 INFO 3856 [-/127.0.0.1/-/3ms GET /] [view] render home.html 3ms
+2017-02-03 13:57:54,034 INFO 3894 [egg-mysql] select now() as currentTime; 177ms
+2017-02-03 13:58:16,709 INFO 3894 [egg-mysql] SELECT * FROM `users` WHERE `user_name` = 'hkw' AND `user_password` = '12345' LIMIT 0, 1 73ms
+2017-02-03 13:58:41,372 INFO 3894 [egg-mysql] SELECT * FROM `users` WHERE `user_name` = 'hkw' AND `user_password` = '12345' LIMIT 0, 1 63ms
+2017-02-03 14:00:24,972 INFO 3894 [egg-mysql] SELECT * FROM `users` WHERE `user_name` = 'hkw' AND `user_password` = '12345' LIMIT 0, 1 62ms
+2017-02-03 14:02:10,506 INFO 3894 [egg-mysql] SELECT * FROM `users` WHERE `user_name` = 'hkw' AND `user_password` = '12345' LIMIT 0, 1 62ms
+2017-02-03 14:07:08,946 INFO 4030 [egg-mysql] select now() as currentTime; 186ms
+2017-02-03 14:07:14,398 INFO 4030 [egg-mysql] SELECT * FROM `users` WHERE `user_name` = 'hkw' AND `user_password` = '12345' LIMIT 0, 1 84ms
+2017-02-03 14:07:30,611 INFO 4067 [egg-mysql] select now() as currentTime; 192ms

@@ -105,7 +105,7 @@
       "app": true,
       "agent": false,
       "client": {
-        "host": "hankewei.xyz",
+        "host": "112.74.180.116",
         "port": "3306",
         "user": "root",
         "password": "mysql123456",
@@ -125,8 +125,11 @@
       "description": "",
       "private": true,
       "dependencies": {
+        "debug": "^2.6.0",
         "egg": "^0.7.0",
+        "egg-bin": "^1.10.3",
         "egg-mysql": "^1.0.1",
+        "egg-session": "^1.1.0",
         "egg-view-nunjucks": "^1.0.0"
       },
       "devDependencies": {
@@ -14445,8 +14448,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg/config/plugin.js",
-      "path": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-onerror",
+      "from": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/.0.7.0@egg/config/plugin.js",
+      "path": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/.1.3.0@egg-onerror",
       "version": "1.3.0"
     },
     "userservice": {
@@ -14456,8 +14459,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg/config/plugin.js",
-      "path": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-userservice",
+      "from": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/.0.7.0@egg/config/plugin.js",
+      "path": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/.1.0.0@egg-userservice",
       "version": "1.0.0"
     },
     "userrole": {
@@ -14467,9 +14470,9 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg/config/plugin.js",
-      "path": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-userrole",
-      "version": "1.1.0"
+      "from": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/.0.7.0@egg/config/plugin.js",
+      "path": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/.1.1.1@egg-userrole",
+      "version": "1.1.1"
     },
     "session": {
       "enable": true,
@@ -14478,8 +14481,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg/config/plugin.js",
-      "path": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-session",
+      "from": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/.0.7.0@egg/config/plugin.js",
+      "path": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/.1.1.0@egg-session",
       "version": "1.1.0"
     },
     "i18n": {
@@ -14489,8 +14492,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg/config/plugin.js",
-      "path": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-i18n",
+      "from": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/.0.7.0@egg/config/plugin.js",
+      "path": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/.1.1.0@egg-i18n",
       "version": "1.1.0"
     },
     "validate": {
@@ -14500,8 +14503,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg/config/plugin.js",
-      "path": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-validate",
+      "from": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/.0.7.0@egg/config/plugin.js",
+      "path": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/.1.0.0@egg-validate",
       "version": "1.0.0"
     },
     "watcher": {
@@ -14511,8 +14514,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg/config/plugin.js",
-      "path": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-watcher",
+      "from": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/.0.7.0@egg/config/plugin.js",
+      "path": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/.1.0.0@egg-watcher",
       "version": "1.0.0"
     },
     "multipart": {
@@ -14522,8 +14525,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg/config/plugin.js",
-      "path": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-multipart",
+      "from": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/.0.7.0@egg/config/plugin.js",
+      "path": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/.1.0.0@egg-multipart",
       "version": "1.0.0"
     },
     "security": {
@@ -14535,8 +14538,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg/config/plugin.js",
-      "path": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-security",
+      "from": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/.0.7.0@egg/config/plugin.js",
+      "path": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/.1.4.0@egg-security",
       "version": "1.4.0"
     },
     "development": {
@@ -14550,9 +14553,9 @@
       "env": [
         "local"
       ],
-      "from": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg/config/plugin.js",
-      "path": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-development",
-      "version": "1.1.0"
+      "from": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/.0.7.0@egg/config/plugin.js",
+      "path": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/.1.2.0@egg-development",
+      "version": "1.2.0"
     },
     "schedule": {
       "enable": true,
@@ -14561,8 +14564,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg/config/plugin.js",
-      "path": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-schedule",
+      "from": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/.0.7.0@egg/config/plugin.js",
+      "path": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/.2.2.1@egg-schedule",
       "version": "2.2.1"
     },
     "logrotator": {
@@ -14574,8 +14577,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg/config/plugin.js",
-      "path": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-logrotator",
+      "from": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/.0.7.0@egg/config/plugin.js",
+      "path": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/.2.2.2@egg-logrotator",
       "version": "2.2.2"
     },
     "view": {
@@ -14588,7 +14591,7 @@
       "optionalDependencies": [],
       "env": [],
       "from": "/Users/hankewei/Desktop/Node/yunnode/node/config/plugin.js",
-      "path": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-view-nunjucks",
+      "path": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/.1.0.0@egg-view-nunjucks",
       "version": "1.0.0"
     },
     "mysql": {
@@ -14599,7 +14602,7 @@
       "optionalDependencies": [],
       "env": [],
       "from": "/Users/hankewei/Desktop/Node/yunnode/node/config/plugin.js",
-      "path": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/egg-mysql",
+      "path": "/Users/hankewei/Desktop/Node/yunnode/node/node_modules/.1.0.1@egg-mysql",
       "version": "1.0.1"
     }
   }
